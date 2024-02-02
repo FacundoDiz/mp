@@ -1,8 +1,8 @@
 {
-  "name": "facundodiz/sdk-php",
+  "name": "facundodiz/mp",
   "description": "Mercado Pago PHP SDK",
   "type": "library",
-  "homepage": "https://github.com/mercadopago/sdk-php",
+  "homepage": "https://github.com/facundodiz/mp",
   "license": "MIT",
   "version": "2.5.5",
   "config": {
