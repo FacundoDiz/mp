@@ -1,5 +1,5 @@
 {
-  "name": "facundodiz/mp",
+  "name": "facundodiz/sdk-php",
   "description": "Mercado Pago PHP SDK",
   "type": "library",
   "homepage": "https://github.com/mercadopago/sdk-php",
